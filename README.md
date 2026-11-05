@@ -99,7 +99,7 @@ Também possuo experiência anterior com suporte técnico, manutenção de compu
 ## 📫 Como me encontrar
 
 - **E-mail:** [itamarhjp1@gmail.com](mailto:itamarhjp1@gmail.com)
-- **LinkedIn:** [Adicionar perfil](https://www.linkedin.com/in/itamar-henrique-desenvolvedor/)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/itamar-henrique-desenvolvedor/)
 
 ---
 
