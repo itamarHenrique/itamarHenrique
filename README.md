@@ -99,8 +99,7 @@ Também possuo experiência anterior com suporte técnico, manutenção de compu
 ## 📫 Como me encontrar
 
 - **E-mail:** [itamarhjp1@gmail.com](mailto:itamarhjp1@gmail.com)
-- **GitHub:** [github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)
-- **LinkedIn:** [Adicionar perfil](https://www.linkedin.com/)
+- **LinkedIn:** [Adicionar perfil](https://www.linkedin.com/in/itamar-henrique-desenvolvedor/)
 
 ---
 
